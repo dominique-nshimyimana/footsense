@@ -3,3 +3,6 @@ FootSense: foot-centric multimodal sensing dataset that combines a downward-faci
 
 
 Download link: https://cloud.dfki.de/owncloud/index.php/s/YeKRgR4TQ8Wj5K3
+
+![placement_sensors.png](assets/placement_sensors.png)
+![overview_img _imu.png](assets/overview_img%20_imu.png)
