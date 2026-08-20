@@ -7,7 +7,6 @@ FootSense is a foot-centric multimodal sensing dataset that combines a downward-
 ## Dataset
 
 The dataset is publicly available at:
-
 [Download FootSense](https://cloud.dfki.de/owncloud/index.php/s/YeKRgR4TQ8Wj5K3)
 
 ### Sensor Placement
